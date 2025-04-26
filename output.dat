@@ -1,0 +1,81 @@
+Iteracao 0:
+Animal na posicao: (0,0)
+0 9 1 1 4 
+2 3 2 1 1 
+1 2 1 1 4 
+0 0 1 1 1 
+1 4 1 0 4 
+
+Iteracao 1:
+Animal na posicao: (0,1)
+0 0 9 1 4 
+3 3 3 2 1 
+2 3 2 1 4 
+0 0 1 1 1 
+1 4 1 0 4 
+
+Iteracao 2:
+Animal na posicao: (0,2)
+0 0 0 9 4 
+3 3 3 3 2 
+3 3 3 2 4 
+0 0 2 1 1 
+1 4 1 0 4 
+
+Iteracao 3:
+Animal na posicao: (0,3)
+0 0 9 0 4 
+3 3 3 3 3 
+3 3 3 3 4 
+0 0 3 2 1 
+1 4 2 0 4 
+
+Iteracao 4:
+Animal na posicao: (0,2)
+0 0 0 9 4 
+3 3 3 3 3 
+3 3 3 3 4 
+0 0 3 3 2 
+1 4 3 0 4 
+
+Iteracao 5:
+Animal na posicao: (0,3)
+Animal entrou na agua!
+0 0 0 0 9 
+3 3 3 3 3 
+3 3 3 3 4 
+0 0 3 3 3 
+1 4 3 0 4 
+
+Iteracao 6:
+Animal na posicao: (0,4)
+0 0 0 9 0 
+3 3 3 3 3 
+3 3 3 3 4 
+0 0 3 3 3 
+1 4 3 0 4 
+
+Iteracao 7:
+Animal na posicao: (0,3)
+0 0 0 0 9 
+3 3 3 3 3 
+3 3 3 3 4 
+0 0 3 3 3 
+1 4 3 0 4 
+
+Iteracao 8:
+Animal na posicao: (0,4)
+0 0 0 9 0 
+3 3 3 3 3 
+3 3 3 3 4 
+0 0 3 3 3 
+1 4 3 0 4 
+
+Iteracao 9:
+Animal na posicao: (0,3)
+0 0 9 0 0 
+3 3 3 3 3 
+3 3 3 3 4 
+0 0 3 3 3 
+1 4 3 0 4 
+
